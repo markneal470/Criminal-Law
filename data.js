@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": 3.140260070049475,
           "pitch": 0.1129759184982877,
           "title": "The Colonel Court",
-          "text": "https://drive.google.com/file/d/1K1CL4NAC-60xSCyGngyWF4suyHDQ1gSV/view?usp=sharing"
+          "text": '<iframe src="https://drive.google.com/file/d/1K1CL4NAC-60xSCyGngyWF4suyHDQ1gSV/preview" width="640" height="480"></iframe>'
         }
       ]
     }
